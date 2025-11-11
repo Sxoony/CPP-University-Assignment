@@ -1,0 +1,14 @@
+﻿  ITPPA.cpp
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(14,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(47,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(50,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(53,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(56,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(59,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(62,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(65,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(68,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(80,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(90,3): warning C4551: function call missing argument list
+C:\Users\estie\source\repos\ITPPA Assignment\ITPPA Assignment\ITPPA.cpp(20,15): warning C4101: 'discountedprice': unreferenced local variable
+  ITPPA Assignment.vcxproj -> C:\Users\estie\source\repos\ITPPA Assignment\x64\Debug\ITPPA Assignment.exe
